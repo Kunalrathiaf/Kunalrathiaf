@@ -44,7 +44,7 @@ I'm an aspiring data analyst and software testing enthusiast, passionate about t
 
 ### 📁 Projects
 
-- **Feature Detection:** Implemented SIFT, RANSAC, and Harris corner detection using OpenCV in Python for detecting key features in images.
+- All of my projects are available at https://github.com/Kunalrathiaf
 
 ---
 
