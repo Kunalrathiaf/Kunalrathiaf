@@ -15,15 +15,34 @@ Data Structures & Algorithms, OOP, DBMS, OS, CN
 Full-stack deployment and version control on GitHub
 
 🧰 Tech Stack & Tools
+🌐 Full Stack Development
 
-🌐 Full Stack Development:
-HTML5 | CSS3 | JavaScript | React | Node.js | Express.js | MongoDB | MySQL
 
-📊 Analytics & Visualization:
-SQL | Tableau
 
-💻 Developer Tools:
-Git | GitHub | VS Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+📊 Analytics & Visualization
+
+
+
+
+💻 Developer Tools
+
+
+
+
+
 
 📁 Highlight Projects
 
@@ -33,17 +52,18 @@ Quiz App (HTML/CSS/JS) – Interactive quiz with dynamic rendering & scoring
 
 E-Commerce Sales Analysis (SQL + Tableau) – Database design, analytics & dashboards
 
-See more projects on my GitHub repositories: https://github.com/Kunalrathiaf
+➡️ See more projects on my GitHub repositories
 
 🏆 Achievements
 
-Top 20 out of 600+ teams at CyberHack 2025 @ IIM Nagpur
+🥇 Top 20 out of 600+ teams at CyberHack 2025 @ IIM Nagpur
 
-Top 50 out of 1000+ teams at Innovanza 2025 @ RCOEM
+🥈 Top 50 out of 1000+ teams at Innovanza 2025 @ RCOEM
 
-Leadership: Publicity Team Co-Head @ Pratishurti 2024
+🏅 Leadership: Publicity Team Co-Head @ Pratishurti 2024
 
 📫 How to Reach Me
-LinkedIn: https://www.linkedin.com/in/rathikunalaf/
 
-Email: rathikunal.af@gmail.com
+LinkedIn
+
+Email
