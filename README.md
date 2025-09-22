@@ -1,60 +1,70 @@
-## Hi there, I'm Kunal Rathi 👋
+Hi there, I’m Kunal Rathi 👋
 
-I'm an aspiring data analyst and software testing enthusiast, passionate about turning raw data into meaningful insights and ensuring software quality through testing. I'm currently learning Python, SQL, data visualization tools, and exploring the world of automation testing. I enjoy working with real-world datasets and tools that help uncover insights and improve applications.
+I’m a B.Tech CSE (Data Science) student and an aspiring Software Engineer / MERN Stack Developer passionate about building scalable web apps and uncovering insights from data. I love transforming ideas into full-stack solutions and using analytics to drive decisions.
 
----
+🧠 Currently Exploring
 
-### 🧠 Currently Learning
+MERN Stack Development (MongoDB, Express.js, React.js, Node.js)
 
-- Python for Data Analysis and Testing
-- Pandas, NumPy, Matplotlib, Seaborn
-- SQL for data querying and analysis
-- Power BI for interactive dashboards and reporting
-- Jupyter Notebooks
-- Basics of Manual and Automation Testing
-- Selenium WebDriver
-- Test case writing and bug reporting
+RESTful API design & authentication
 
----
+SQL, MySQL & Tableau for data analytics & visualization
 
-### 🧰 Tools, Libraries & Tech Stack
+Data Structures & Algorithms, OOP, DBMS, OS, CN
 
-#### 📊 Python Libraries:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-2B5D6E?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-2A2A2A?style=flat-square)
+Full-stack deployment and version control on GitHub
 
-#### 🧪 Software Testing Stack:
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-0A0A0A?style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+🧰 Tech Stack & Tools
+🌐 Full Stack Development:
 
-#### 💻 Developer & Analytics Tools:
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
----
 
-### 📁 Projects
 
-- All of my projects are available at https://github.com/Kunalrathiaf
 
----
 
-### 📫 How to Reach Me
 
-- [LinkedIn](https://www.linkedin.com/in/kunal-rathi-a8a801268/)
-- [Email](mailto:rathikunal.af@gmail.com)
 
----
 
-### ✨ Fun Fact
 
-I love exploring messy datasets and automating repetitive tasks — both feel like solving mini mysteries.
+
+
+
+
+
+
+📊 Analytics & Visualization:
+
+
+
+
+💻 Developer Tools:
+
+
+
+
+
+
+📁 Highlight Projects
+
+Contact Manager App (MERN) – Full-stack CRUD app with authentication.
+
+Quiz App (HTML/CSS/JS) – Interactive quiz with dynamic rendering & scoring.
+
+E-Commerce Sales Analysis (SQL + Tableau) – Database design, analytics & dashboards.
+
+➡️ See more projects on my GitHub repositories
+.
+
+🏆 Achievements
+
+Top 20 out of 600+ teams at CyberHack 2025 @ IIM Nagpur.
+
+Top 50 out of 1000+ teams at Innovanza 2025 @ RCOEM.
+
+Leadership: Publicity Team Co-Head @ Pratishurti 2024.
+
+📫 How to Reach Me
+
+LinkedIn
+
+Email
