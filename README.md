@@ -1,14 +1,14 @@
 ## Hi there, I'm Kunal Rathi 👋  
 🎓 B.Tech CSE (Data Science) Student | 💻 Aspiring Software Engineer  
-Passionate about problem-solving, analytics, and building projects that combine code + data.  
+Passionate about full-stack development, data-driven solutions, and building projects that combine code + creativity.  
 
 ---
 
 ### 🧠 Currently Learning  
-- Data Structures & Algorithms (DSA)  
-- Object-Oriented Programming (OOP)  
-- DBMS, Operating Systems, Computer Networks  
-- Agile (Basics), Unit Testing & SDLC  
+- Advanced Data Structures & Algorithms (DSA)  
+- Django REST Framework and React  
+- Database Management Systems (DBMS), Operating Systems, Computer Networks  
+- Agile, Unit Testing and SDLC fundamentals  
 
 ---
 
@@ -26,36 +26,40 @@ Passionate about problem-solving, analytics, and building projects that combine 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)  
 
 #### 🤝 Soft Skills  
-Problem-Solving • Effective Communication • Critical Thinking • Teamwork • Adaptability  
+Problem Solving • Critical Thinking • Communication • Teamwork • Adaptability  
 
 ---
 
 ### 📁 Projects  
 
-- **AI Samachar Newspaper Bot (Python, Streamlit, MySQL)**  
-  Multi-page chatbot with conversational news browsing, modular architecture & scalable design.  
+- [**BrainBolt**](https://github.com/Kunalrathiaf/BrainBolt) (Django + React)  
+  Interactive quiz web app with real-time scoring, countdown timer and REST API backend.  
 
-- **Quiz Web App (HTML, CSS, JavaScript)**  
-  Interactive quiz with real-time validation, scoring & countdown timer.  
+- [**AI Chat App**](https://github.com/Kunalrathiaf/AI-Chat-App) (Python, Django, React, OpenAI API)  
+  Full-stack AI chatbot enabling dynamic conversations, session handling and responsive UI.  
+
+- [**AI Samachar Newspaper Bot**](https://github.com/Kunalrathiaf/AI-Samachar-Newspaper-Bot) (Python, Streamlit, MySQL)  
+  Multi-page chatbot for conversational news browsing with modular architecture.  
 
 ---
 
 ### 🏆 Achievements  
 
-- 🥈 **Top 50 / 1000+ Teams** – Innovanza 2025 @ RCOEM  
-- 🏅 **Publicity Team Co-Head** – Pratishurti 2024  
+- 🥈 Top 50 / 1000+ Teams – Innovanza 2025 (National innovation competition)  
+- 🏅 Publicity Team Co-Head – Pratishurti 2024 (Led a team for a major inter-college fest)  
 
 ---
 
 ### 📜 Certifications  
 
-- ✅ Programming in Python – Meta (Coursera)  
-- ✅ Networking Basics – Cisco  
-- ✅ Problem Solving (Intermediate) – HackerRank  
-- ✅ Java (Intermediate) – HackerRank  
+- Programming in Python – Meta (Coursera)  
+- Networking Basics – Cisco  
+- Problem Solving (Intermediate) – HackerRank  
+- Java (Intermediate) – HackerRank  
 
 ---
 
@@ -68,4 +72,4 @@ Problem-Solving • Effective Communication • Critical Thinking • Teamwork �
 ---
 
 ### ✨ Fun Fact  
-I love **solving problems through code + data** and turning challenges into creative solutions.  
+I love building interactive applications that merge full-stack development with AI, data and creativity.  
