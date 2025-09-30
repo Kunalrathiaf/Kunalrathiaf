@@ -1,4 +1,4 @@
-## Hi there, I'm Kunal Rathi 👋  
+## Hi there, I'm Kunal Ravindra Rathi 👋  
 🎓 B.Tech CSE (Data Science) Student | 💻 Aspiring Software Engineer  
 Passionate about full-stack development, data-driven solutions, and building projects that combine code + creativity.  
 
