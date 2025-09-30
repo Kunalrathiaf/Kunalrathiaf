@@ -66,6 +66,11 @@ Problem Solving • Critical Thinking • Communication • Teamwork • Adaptab
 
 ---
 
+### 📄 Resume  
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobatreader)](https://github.com/Kunalrathiaf/Resume/blob/main/Kunal_Rathi_Resume.pdf)
+
+---
+
 ### 📫 Connect with Me  
 
 - [LinkedIn](https://www.linkedin.com/in/rathikunalaf/)  
