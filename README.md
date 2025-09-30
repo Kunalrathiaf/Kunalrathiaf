@@ -65,9 +65,10 @@ Problem Solving • Critical Thinking • Communication • Teamwork • Adaptab
 - Java (Intermediate) – HackerRank  
 
 ---
-
+ 
 ### 📄 Resume  
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobatreader)](https://github.com/Kunalrathiaf/Resume/blob/main/Kunal_Rathi_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobatreader)](https://github.com/Kunalrathiaf/Resume/blob/main/Kunal%20Ravindra%20Rathi.pdf)
+
 
 ---
 
