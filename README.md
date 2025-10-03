@@ -5,10 +5,11 @@ Passionate about full-stack development, data-driven solutions, and building pro
 ---
 
 ### 🧠 Currently Learning  
-- Advanced Data Structures & Algorithms (DSA)  
-- Django REST Framework and React  
-- Database Management Systems (DBMS), Operating Systems, Computer Networks  
-- Agile, Unit Testing and SDLC fundamentals  
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming
+- Database Management Systems (DBMS), SQL
+- JAVA, HTML, CSS, JavaScrpit
+- Django REST Framework and React 
 
 ---
 
@@ -29,8 +30,7 @@ Passionate about full-stack development, data-driven solutions, and building pro
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 #### 🤝 Soft Skills  
 Problem Solving • Critical Thinking • Communication • Teamwork • Adaptability  
@@ -44,9 +44,7 @@ Problem Solving • Critical Thinking • Communication • Teamwork • Adaptab
 
 - [**AI Chat App**](https://github.com/Kunalrathiaf/AI-Chat-App) (Python, Django, React, OpenAI API)  
   Full-stack AI chatbot enabling dynamic conversations, session handling and responsive UI.  
-
-- [**AI Samachar Newspaper Bot**](https://github.com/Kunalrathiaf/AI-Samachar-Newspaper-Bot) (Python, Streamlit, MySQL)  
-  Multi-page chatbot for conversational news browsing with modular architecture.  
+  
 
 ---
 
@@ -60,7 +58,7 @@ Problem Solving • Critical Thinking • Communication • Teamwork • Adaptab
 ### 📜 Certifications  
 
 - Programming in Python – Meta (Coursera)  
-- Networking Basics – Cisco  
+- English For IT - Cisco 
 - Problem Solving (Intermediate) – HackerRank  
 - Java (Intermediate) – HackerRank  
 
